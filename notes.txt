@@ -1,0 +1,48 @@
+Project 1: done [github setup is still left]
+
+- To take in input from terminal
+- Take data and write it into a file and save it to the folder
+- Set up an acc
+- Create a git for this Project
+- Have multiple commits
+
+-------------------------------------------------------------------------
+
+General :
+
+- Sign in to git on github desktop and vscode
+- install notion: done [need to be more familiar with it]
+- set up teams: done [dapinderkaur515@outlook.com]
+- bonus: vscode settings and (black formatter)
+
+-------------------------------------------------------------------------
+
+Project 2:
+
+- Brand new Project
+- New virtual env, .venv
+- use requirements.txt
+- install requests
+- google and find some api online and download the data
+- New git repo
+
+
+-------------------------------------------------------------------------
+
+
+Actions:
+
+There are four things to be done:
+
+1. vscode
+2. github
+3. note taking
+4. python tools
+
+-------------------------------------------------------------------------
+
+Setting up a microsoft account for teams:
+
+email: dapinderkaur515@outlook.com
+
+-------------------------------------------------------------------------
