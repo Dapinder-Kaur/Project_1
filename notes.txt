@@ -55,3 +55,5 @@ The issue was with pushing the changes in the very first commit.
 - It was supposed to be: git push https://Dapinder-Kaur@github.com/Dapinder-Kaur/Project_1.git
 (with my user name in the very first push so that gitHub recognizes me)
 - Earlier I was using only git push -u origin main
+
+- I am adding this change to check if i configured my github desktop correctly.
