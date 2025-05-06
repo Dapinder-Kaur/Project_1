@@ -46,3 +46,12 @@ Setting up a microsoft account for teams:
 email: dapinderkaur515@outlook.com
 
 -------------------------------------------------------------------------
+
+Solved an issue:
+
+using this website: https://medium.com/@cryptowikihere/resolving-permission-denied-public-key-error-in-visual-studio-code-and-git-13d11c7f608d#:~:text=Conclusion%3A,username%20during%20the%20initial%20push.
+The issue was with pushing the changes in the very first commit.
+
+- It was supposed to be: git push https://Dapinder-Kaur@github.com/Dapinder-Kaur/Project_1.git
+(with my user name in the very first push so that gitHub recognizes me)
+- Earlier I was using only git push -u origin main
